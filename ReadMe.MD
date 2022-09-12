@@ -16,3 +16,4 @@ This is a simple Javascript ES6 application that provides basic scaffold feature
 ## NOTE: 
 1. The Google API key used (in this project) to fetch to map data has some restrictions;
 2. To use this application, we recommend that the Google API key used in the app be replaced with a paid version (or alternative full-featured if available) obtainable from Google;
+3. Please ignore the commit comment that the Google API key has been replaced with full-featured, this isn't the case yet;
