@@ -14,6 +14,6 @@ This is a simple Javascript ES6 application that provides basic scaffold feature
 5. To share one's location, a user can easily copy the link (from the input field) to clipboard and share same with friends;
 
 ## NOTE: 
-1. The Google API key used (in this project) to fetch to map data has some restrictions;
-2. To use this application, we recommend that the Google API key used in the app be replaced with a paid version (or alternative full-featured if available) obtainable from Google;
+1. The Google API key used (in this project) to fetch map data has some referral restrictions;
+2. To use this application, we recommend that the Google API key used in the app be replaced with a paid version (or alternative full-featured if available) obtainable from Google or better still, use another map service (e.g., mapbox) and tweak the code as may be required; 
 3. Please ignore the commit comment that the Google API key has been replaced with full-featured, this isn't the case yet;
